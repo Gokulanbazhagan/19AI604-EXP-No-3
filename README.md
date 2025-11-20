@@ -1,6 +1,6 @@
 # Experiment 3 – Create an Application for Guessing a Number using Common Programming Constructs of Rust  
 
-<H3>NAME: ADITYA S </H3>  
+<H3>NAME: Gokularamanan k </H3>  
 <H3>REGISTER NO: 212222230040</H3>    
 <H3>DATE: 17-10-2025</H3>  
 
